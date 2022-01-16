@@ -4,13 +4,15 @@ Template para portfólio de Data Science
 
 
 <p align="center">
-  <img src="banner2.png" >
+  <img src="https://raw.githubusercontent.com/RodriguoGoncalves/Sigmoidal_data_science/main/banner2.png" >
 </p>
 
 # Rodrigo Goncalves
 <sub>*Analista de Banco de Dados* Júnior</sub>
 
-Este script não tem o objetivo de ser uma Análise  e sim de estudo e que pode vir a servir como análise para as especificidades de cada organização.
+## Para voltar à pagina principal [clique aqui](https://github.com/RodriguoGoncalves/Sigmoidal_data_science):
+
+Esta seção não tem como objetivo mostrar uma análise de dados completa e sim scripts que o autor achou interessante para guardar como estudo e pode servir para outras pessoas e, quem sabe, ajudar na construção de futuras análises
 
 ## Extras:
 * **Conversao_Moeda_Tempo_Real:** https://abre.ai/airbnbatenas
