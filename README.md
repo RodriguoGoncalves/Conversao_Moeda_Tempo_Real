@@ -14,7 +14,7 @@ Template para portfólio de Data Science
 
 Esta seção não tem como objetivo mostrar uma análise de dados completa e sim scripts que o autor achou interessante para guardar como estudo e pode servir para outras pessoas e, quem sabe, ajudar na construção de futuras análises
 
-## Extras:
+## Python:
 * **Conversao_Moeda_Tempo_Real:** https://abre.ai/conversaomoeda
 
 
