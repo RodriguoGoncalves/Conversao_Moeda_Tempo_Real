@@ -10,7 +10,7 @@ Template para portfólio de Data Science
 # Rodrigo Goncalves
 <sub>*Analista de Banco de Dados* Júnior</sub>
 
-## Para voltar à pagina principal [clique aqui](https://github.com/RodriguoGoncalves/Sigmoidal_data_science):
+## Para voltar à pagina principal [clique aqui](https://github.com/RodriguoGoncalves/Sigmoidal_data_science)
 
 Esta seção não tem como objetivo mostrar uma análise de dados completa e sim scripts que o autor achou interessante para guardar como estudo e pode servir para outras pessoas e, quem sabe, ajudar na construção de futuras análises
 
